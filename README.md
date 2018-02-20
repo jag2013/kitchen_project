@@ -54,6 +54,9 @@ Timer alarm sound:
 
 https://freesound.org/people/idepe/sounds/196838/
 
+Used code ideas from this tutorial:
+
+https://www.youtube.com/watch?v=dwGtp0NeoN0
 
 
 # Unreal Engine 4 VR Intro Starter Project READ ME
