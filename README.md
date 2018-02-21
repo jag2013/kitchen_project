@@ -4,9 +4,9 @@ Unreal Version: 4.15.3
 
 Headset: Oculus Rift
 
-Detailed description of the design of experience and timer: I tried to make it as difficult as possible for the person playing the game to actually wash the dishes. I included fun and whimsical background music and a lot of audio to enhance the immersiveness of the experienced. The timer is simply two integer variables (1 for min, and 1 for seconds) set to the event tick. The timer is then placed in the scene to make it resemble the timer on the oven to the user's left side.
+Detailed description of the design of experience and timer: You begin the game by pressing the trigger button either Rift controller and pointing the laser at the Start Button. I tried to make it as difficult as possible for the person playing the game to actually wash the dishes. I included fun and whimsical background music and a lot of audio to enhance the immersiveness of the experienced. The timer is simply two integer variables (1 for min, and 1 for seconds) set to the event tick. The timer is then placed in the scene to make it resemble the timer on the oven to the user's left side.
 
-Explanation of the user's controls of experience: I gave the user big balloon hands so the user would be just as likely to break the dishes as wash them. It's fun. I hope you like it.
+Explanation of the user's controls of experience: I gave the user big balloon hands so the user would be just as likely to break the dishes as wash them. You push the dishes into the sink by using the big balloon hands as a broom to sweep the dishes into the sink. So what you It's fun. I hope you like it.
 
 3rd Party Assets:
 
