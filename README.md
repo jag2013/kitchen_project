@@ -1,25 +1,26 @@
-<<<<<<< HEAD
 
-Unreal Version: 4.15.3
+**Student:** Jason Holloway
 
-Headset: Oculus Rift
+**Unreal Version:** 4.15.3
 
-Detailed description of the design of experience and timer: You begin the game by pressing the trigger button either Rift controller and pointing the laser at the Start Button. I tried to make it as difficult as possible for the person playing the game to actually wash the dishes. I included fun and whimsical background music and a lot of audio to enhance the immersiveness of the experienced. The timer is simply two integer variables (1 for min, and 1 for seconds) set to the event tick. The timer is then placed in the scene to make it resemble the timer on the oven to the user's left side.
+**Headset:** Oculus Rift
 
-Explanation of the user's controls of experience: I gave the user big balloon hands so the user would be just as likely to break the dishes as wash them. You push the dishes into the sink by using the big balloon hands as a broom to sweep the dishes into the sink. So what you It's fun. I hope you like it.
+**Detailed description of the design of experience and timer:** You begin the game by pressing the trigger button either Rift controller and pointing the laser at the Start Button. I tried to make it as difficult as possible for the person playing the game to actually wash the dishes. I included fun and whimsical background music and a lot of audio to enhance the immersiveness of the experienced. The timer is simply two integer variables (1 for min, and 1 for seconds) set to the event tick. The timer is then placed in the scene to make it resemble the timer on the oven to the user's left side.
 
-3rd Party Assets:
+**Explanation of the user's controls of experience:** I gave the user big balloon hands so the user would be just as likely to break the dishes as wash them. You push the dishes into the sink by using the big balloon hands as a broom to sweep the dishes into the sink. So what you It's fun. I hope you like it.
 
-hand model:
+**3rd Party Assets:**
+
+Hand Model:
 
 https://www.turbosquid.com/FullPreview/Index.cfm/ID/409327
 
-music:
+Music:
 
 http://freemusicarchive.org/music/Latch_Swing/demo_2008/Hungaria
 
 
-plate clanking sounds
+Plate clanking sounds
 
 https://freesound.org/people/OwlStorm/sounds/209009/
 
@@ -34,7 +35,7 @@ http://soundbible.com/967-Cutlery-Clank.html
 https://freesound.org/people/antwash/sounds/118569/
 
 
-plate breaking sounds
+Plate breaking sounds
 
 https://freesound.org/people/edwar64896/sounds/381260/
 
@@ -42,11 +43,11 @@ https://freesound.org/people/Agaxly/sounds/233607/
 
 https://freesound.org/people/tezzza/sounds/21613/
 
-sink sound:
+Sink sound:
 
 http://soundbible.com/1439-Kitchen-Sink.html
 
-timer font:
+Timer font:
 
 http://www.1001fonts.com/digital+clock-fonts.html
 
@@ -65,9 +66,8 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 This project is your first chance to make a game within Unreal Engine 4 for either standing or room-scale VR. You’ll need to utilize motion controllers to build a kitchen-themed interaction game, and you’ll use functions, physics, blueprint communication, and audio to create an immersive experience. Spawn messy dishes and get them into the sink as quickly as possible!
 
-
-
 ## Necessary Software
+
 - [Epic Games Launcher, Unreal Engine 4.14 or 4.15](https://www.unrealengine.com/en-US/blog)
 - [SteamVR](http://store.steampowered.com/steamvr) OR [Oculus Home](https://www.oculus.com/setup/)
 
@@ -79,6 +79,7 @@ Github is one of the best ways for software developers to store their code and e
 1. Clicking **"Clone or download"**
 2. Clicking **"Download ZIP"**
 =======
+
 # kitchen_project
 Kitchen Project for Udacity' Unreal VR Training Course
->>>>>>> f329dd882ae8edb5d13b8d1fd02c08f96039e868
+
